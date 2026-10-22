@@ -3,7 +3,7 @@
 An automated player system for **Rogue Defense** (a Rogue-like action game). It leverages **YOLO** for real-time computer vision and UI/card detection, **Ollama (Qwen2.5-Coder)** for LLM-driven decision-making, and **ADB (Android Debug Bridge)** for real-time device control.
 
 ---
-
+[![Watch Video Project](./thumbnail.png)](./Video%20Project.mp4)
 ## 🌟 Key Features
 
 - **Automated Detection (YOLO Detector):** Accurately detects system buttons (`StartButton`, `Back`, `Confirm`), special event cards (`ElitePick`), and available skill options on screen.
